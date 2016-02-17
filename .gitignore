@@ -5,3 +5,5 @@ build
 _site
 *.lock
 .sass-cache/
+.settings/
+.project
